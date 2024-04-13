@@ -86,11 +86,16 @@ a {
 }
 
 .icon {
-  font-size: 1.5rem;
-  color: #fff;
-  padding: 1.2rem;
-  border-radius: 100%;
-  display: inline-block;
+  font-size: 1.6rem;
+  color: #ffffff;
+  padding: 1.5rem;
+  border-radius: 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 5rem;
+  height: 5rem;
+  box-sizing: border-box;
 }
 
 .icon-blue {
